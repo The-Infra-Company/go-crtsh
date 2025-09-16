@@ -1,5 +1,10 @@
 # go-crtsh
 
+
+<p align="center">
+  <img width="240" height="240" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/ebfc934d-0e2f-4a87-bec6-1d18ce7e2fab" />
+</p>
+
 A Go client library for the [crt.sh](https://crt.sh) certificate transparency database API.
 
 ## Installation
